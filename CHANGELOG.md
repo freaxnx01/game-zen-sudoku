@@ -5,3 +5,8 @@ All notable changes to this project are documented here, following
 [Semantic Versioning](https://semver.org).
 
 ## [Unreleased]
+
+## [0.1.0] - 2026-09-30
+
+### Added
+- Hub navigation (version badge, fullscreen toggle, More Games, Source, Feedback, GitHub star)
